@@ -1,3 +1,10 @@
+# Warning
+
+This branch contains patched version of jaeger-client-cpp which uses conan instead of hunter.
+This repo is not actively maintained and further readme can contain incorrect information about building.
+
+# Original README.md
+
 [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![Appveyor Build][appveyor]][appveyor] [![OpenTracing 1.0 Enabled][ot-img]][ot-url]
 
 ![Ubuntu](https://github.com/jaegertracing/jaeger-client-cpp/workflows/Ubuntu/badge.svg)
